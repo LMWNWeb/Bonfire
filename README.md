@@ -6,7 +6,7 @@ Bonfire works with most web servers, and runs on PHP.
 Make sure the .htaccess file is placed in the root directory of your website or else the script will not work.
 
 ## Technical Requirements
-- A web server such as Apache, Nginx, Litespeed, etc.
+- A web server such as Apache, Nginx, Litespeed, etc. that supports RewriteDocument in .htaccess
 - PHP 4.x, 5.x, 7.x or 8.x (We recommend using the latest version of PHP for it's security and bugfix updates).
 
 ## Supported HTTP Error Codes
