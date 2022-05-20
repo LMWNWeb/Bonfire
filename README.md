@@ -1,6 +1,15 @@
 # Bonfire
-A simple PHP script that can handle HTTP errors.
+Error pages are an absolute pain to re-code for every project. So why not have a set of already build, ready to go error pages?
+
+Bonfire works with most web servers, and runs on PHP.
+
 Make sure the .htaccess file is placed in the root directory of your website or else the script will not work.
+
+## Technical Requirements
+- A web server such as Apache, Nginx, Litespeed, etc.
+- PHP (we'd highly recommend using PHP 7 or 8, but this project will work on PHP 4 and up).
+
+## Supported HTTP Error Codes
 
 Bonfire supports 26 different HTTP error codes.
 
