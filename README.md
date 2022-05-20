@@ -7,7 +7,7 @@ Make sure the .htaccess file is placed in the root directory of your website or 
 
 ## Technical Requirements
 - A web server such as Apache, Nginx, Litespeed, etc.
-- PHP (we'd highly recommend using the latest version of PHP, but this project will work on PHP 4 and up).
+- PHP (Bonfire works on PHP 4 and up. We'd recommend using the latest version of PHP for it's security and bugfix updates).
 
 ## Supported HTTP Error Codes
 
