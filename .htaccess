@@ -1,1 +1,27 @@
-
+# START - BONFIRE HTTP ERROR PAGES
+ErrorDocument 400 /bonfire/error.php?code=400
+ErrorDocument 401 /bonfire/error.php?code=401
+ErrorDocument 402 /bonfire/error.php?code=402
+ErrorDocument 403 /bonfire/error.php?code=403
+ErrorDocument 404 /bonfire/error.php?code=404
+ErrorDocument 405 /bonfire/error.php?code=405
+ErrorDocument 406 /bonfire/error.php?code=406
+ErrorDocument 407 /bonfire/error.php?code=407
+ErrorDocument 408 /bonfire/error.php?code=408
+ErrorDocument 409 /bonfire/error.php?code=409
+ErrorDocument 410 /bonfire/error.php?code=410
+ErrorDocument 411 /bonfire/error.php?code=411
+ErrorDocument 412 /bonfire/error.php?code=412
+ErrorDocument 413 /bonfire/error.php?code=413
+ErrorDocument 414 /bonfire/error.php?code=414
+ErrorDocument 415 /bonfire/error.php?code=415
+ErrorDocument 416 /bonfire/error.php?code=416
+ErrorDocument 417 /bonfire/error.php?code=417
+ErrorDocument 422 /bonfire/error.php?code=422
+ErrorDocument 425 /bonfire/error.php?code=425
+ErrorDocument 426 /bonfire/error.php?code=426
+ErrorDocument 428 /bonfire/error.php?code=428
+ErrorDocument 429 /bonfire/error.php?code=429
+ErrorDocument 431 /bonfire/error.php?code=431
+ErrorDocument 451 /bonfire/error.php?code=451
+# END - BONFIRE HTTP ERROR PAGES
