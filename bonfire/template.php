@@ -22,7 +22,7 @@
                         </h2>
                         <?php } if ($error['image'] != NULL) { ?>
                         <p class="my-2">
-                            <img src="<?= $error['image']; ?>" class="mx-auto w-1/2 md:w-1/3 lg:w-1/4">
+                            <img src="<?= $error['image']; ?>" class="mx-auto w-1/2 md:w-1/3 lg:w-1/4" alt="<?= $error['name']; ?> Image">
                         </p>
                         <?php } if ($error['tip'] != NULL) { ?>
                         <h2 class="xl:text-xl text-lg mb-4 py-1 px-2 bg-blue-100 border-l-2 border-blue-500 rounded-r-md">
